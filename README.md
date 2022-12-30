@@ -31,5 +31,10 @@ well that ones easy, document your code! when you were learning im positive ther
 but alas it had little to no documentation...
 so you didnt use it and used 3 other modules because what else are you supposed to do without base knowledge of what your doing in a subject other than bumble around like an idjit. 
 
+
+# (not yet implimented) you can even make money using this site!
+so there will be amny times when someone is too lazy to doc their code, or they want a module of some type documented because they cannot for the life of them figure it out
+
+this is where you documentation peeps come into play, there will (later) be a bounty board on the website. in this there is the payout for doing it and a place you can setup your own document requests. this means that yes, you CAN make money just sitting around and making documentation or making old documentation more verbose. 
 you, the dev, can help fix this issue, document your code. 
 
