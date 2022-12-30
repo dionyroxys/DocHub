@@ -30,5 +30,6 @@ links to other docs for other ways to do it if applicable (done by moderator(me 
 well that ones easy, document your code! when you were learning im positive there was a obscure library everyone was saying was the best fit for your issue, 
 but alas it had little to no documentation...
 so you didnt use it and used 3 other modules because what else are you supposed to do without base knowledge of what your doing in a subject other than bumble around like an idjit. 
+
 you, the dev, can help fix this issue, document your code. 
 
